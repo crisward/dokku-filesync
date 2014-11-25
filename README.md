@@ -1,6 +1,6 @@
 #Dokku Filesync
 
-Simple plugin to allow the syncing of files in to docker containers.
+Simple plugin to allow the syncing of files in two docker containers.
 This works by pipe tared files into a shared volume held in the apps folder.
 This is a bit specific, but the principle could be extended to be more adaptable.
 
